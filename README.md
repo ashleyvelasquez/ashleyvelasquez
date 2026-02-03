@@ -1,4 +1,4 @@
-# Ashley Velasquez - Security Practitioner
+# Ashley Velasquez 
 
 ## 🎯 Mission Statement
 Information Technology professional specializing in cybersecurity, network security, and secure software development. Focused on automotive cybersecurity research, malware analysis, and cloud security implementations.
