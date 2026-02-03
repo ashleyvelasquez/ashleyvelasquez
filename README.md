@@ -1,16 +1,34 @@
-## Hi there 👋
+# Ashley Velasquez - Security Practitioner
 
-<!--
-**ashleyvelasquez/ashleyvelasquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Mission Statement
+Information Technology professional specializing in cybersecurity, network security, and secure software development. Focused on automotive cybersecurity research, malware analysis, and cloud security implementations.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Toolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming & Scripting
+- **Languages:** Python, JavaScript, SQL, Java
+- **Development:** FlutterFlow, Git/GitHub
+- **Database:** SQL, Database Security & Management
+
+### Security Tools & Platforms
+- **Cloud Security:** AWS (Security Fundamentals certified)
+- **Virtualization:** VirtualBox, Virtual Environment Management
+
+### Operating Systems
+- Linux environments
+- Windows operating systems
+- Virtual enviornments (VMware, 2
+
+### Cybersecurity Frameworks & Concepts
+- Automotive Network Security (CAN bus security)
+- Malware Analysis & Reverse Engineering
+- Network Security Principles
+- Software Testing & Quality Assurance
+- Secure Application Development
+
+
+
+---
+
+📧 lizziev08@icloud.com | 📍 South Riding, VA  
+💼 Open to Security Analyst, S
