@@ -26,9 +26,3 @@ Information Technology professional specializing in cybersecurity, network secur
 - Software Testing & Quality Assurance
 - Secure Application Development
 
-
-
----
-
-📧 lizziev08@icloud.com | 📍 South Riding, VA  
-💼 Open to Security Analyst, S
